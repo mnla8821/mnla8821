@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alaa Aldeen Manla</h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnla8821&label=Profile%20views&color=0e75b6&style=flat" alt="mnla8821" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnla8821" alt="mnla8821" /></a> </p>
+<h1 align="center"><a  href="https://dev.to/alaa aldeen manla" target="blank"><img align="center" src="https://hacker-flax.vercel.app/" alt="alaa aldeen manla" height="400" width="450" /></a></h1>
 
 - 🔭 I’m currently working on [Online Platform](https://online-platform-sepia.vercel.app/)
 
@@ -30,6 +29,7 @@
 <a href="https://instagram.com/alaa aldeen manla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alaa aldeen manla" height="30" width="40" /></a>
 <a href="https://medium.com/@mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahmoud" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alaa aldeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alaa aldeen" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
