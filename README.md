@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alaa aldeen manla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alaa aldeen manla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alaa aldeen manla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa aldeen manla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaa-aldeen-manla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa aldeen manla" height="30" width="40" /></a>
 <a href="https://fb.com/alaa aldeen manla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa aldeen manla" height="30" width="40" /></a>
 <a href="https://instagram.com/alaa aldeen manla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alaa aldeen manla" height="30" width="40" /></a>
 <a href="https://medium.com/@mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahmoud" height="30" width="40" /></a>
