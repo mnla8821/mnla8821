@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences [https://mnla8821.vercel.app/](https://mnla8821.vercel.app/)
 
+- 📄 Look at my portfolio  [https://portfolio-psi-one-62.vercel.app/](https://portfolio-psi-one-62.vercel.app/)
+
 - ⚡ Fun fact **I Think i Am Funny**
 
 ### Blogs posts
