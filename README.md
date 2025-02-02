@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mnla8821@gmail.com**
 
-- 📄 Know about my experiences [https://mnla8821.vercel.app/](https://mnla8821.vercel.app/)
+- 📄 Know about my experiences [https://mnla8821.vercel.app/](https://resume-liard-seven-57.vercel.app/)
 
 - 📄 Look at my portfolio  [https://portfolio-psi-one-62.vercel.app/](https://portfolio-psi-one-62.vercel.app/)
 
